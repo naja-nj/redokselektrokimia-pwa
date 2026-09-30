@@ -1,0 +1,17 @@
+{
+  "short_name": "RedoksPWA",
+  "name": "Redoks & Elektrokimia PWA",
+  "icons": [
+    {
+      "src": "https://flaticon.com",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#FFFFFF",
+  "theme_color": "#2196F3",
+  "display": "standalone",
+  "orientation": "portrait"
+}
